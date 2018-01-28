@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+<key>CFBundleIdentifier</key>
+<string>gradle</string>
+<key>CFBundleName</key>
+<string>Gradle User Guide</string>
+<key>DocSetPlatformFamily</key>
+<string>gradle</string>
+<key>isDashDocset</key><true/><key>isJavaScriptEnabled</key><true/><key>DashDocSetFamily</key><string>dashtoc</string><key>DashDocSetDeclaredInStyle</key><string>originalName</string><key>dashIndexFilePath</key><string>userguide/userguide.html</string></dict>
+</plist>
+

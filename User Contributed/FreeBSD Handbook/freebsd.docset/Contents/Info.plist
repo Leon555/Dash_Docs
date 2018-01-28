@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>freebsd</string>
+	<key>CFBundleName</key>
+	<string>FreeBSD Handbook</string>
+	<key>DashDocSetFallbackURL</key>
+	<string>https://www.freebsd.org/doc/en/books/handbook/</string>
+	<key>DashDocSetFamily</key>
+	<string>dashtoc</string>
+	<key>DashDocSetKeyword</key>
+	<string>freebsd</string>
+	<key>DashDocSetPluginKeyword</key>
+	<string>freebsd</string>
+	<key>DashWebSearchKeyword</key>
+	<string>freebsd</string>
+	<key>DocSetPlatformFamily</key>
+	<string>usercontribFreeBSD_Handbook</string>
+	<key>dashIndexFilePath</key>
+	<string>index.html</string>
+	<key>isDashDocset</key>
+	<true/>
+	<key>isJavaScriptEnabled</key>
+	<false/>
+</dict>
+</plist>
